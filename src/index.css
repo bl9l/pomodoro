@@ -6,3 +6,12 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+:root {
+  --container-width: 1000px;
+}
+
+.container {
+  width: var(--container-width);
+  margin: 0 auto;
+}

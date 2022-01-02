@@ -3,6 +3,6 @@ import styles from './statisticspage.module.scss';
 
 export function StatisticsPage() {
   return (
-    <></>
+    <>фыв</>
   );
 }
